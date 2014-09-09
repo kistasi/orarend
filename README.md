@@ -1,4 +1,4 @@
 orarend
 =======
 
-Órarend magamnak. (Meg akinek jól jön.)
+A KIWI 9. osztályának órarendje. Az oldal kényelmi okokból készült, elsősorban magamnak, de használhatja bárki. :)
