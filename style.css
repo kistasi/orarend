@@ -39,3 +39,10 @@ td {
 td:hover {
   background: #BDBBBB;
 }
+
+@media screen and (max-width: 500px) {
+  html,
+  body {
+    font-size: 0.88em;
+  }
+}
