@@ -1,4 +1,4 @@
 KIWI 10. osztály órarend
 ========================
 
-A KIWI 10. osztályának órarendje. Az oldal kényelmi okokból készült, elsősorban magamnak, de használhatja bárki. :)
+A [Kispesti Waldorf Gimnázium](http://www.waldorfkispest.hu/) 10. osztályának aktuális órarendje.
