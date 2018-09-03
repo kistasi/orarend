@@ -1,4 +1,4 @@
-KIWI 12. osztály órarend
+KIWI 13. osztály órarend
 ========================
 
-A [Kispesti Waldorf Gimnázium](http://www.waldorfkispest.hu/) 12. osztályának aktuális órarendje.
+A [Kispesti Waldorf Gimnázium](http://www.waldorfkispest.hu/) 13. osztályának aktuális órarendje.

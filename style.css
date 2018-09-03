@@ -46,3 +46,6 @@ td:hover {
     font-size: 0.88em;
   }
 }
+.table-section {
+  overflow-x:auto;
+}
