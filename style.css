@@ -36,7 +36,7 @@ td {
   padding: 0.5em;
 }
 
-td:hover {
+tr:hover {
   background: #BDBBBB;
 }
 
